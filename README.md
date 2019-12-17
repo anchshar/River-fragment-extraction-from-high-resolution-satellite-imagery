@@ -1,2 +1,2 @@
 # River-fragment-extraction-from-high-resolution-satellite-imagery
-Semantic segmentation of river water from Sentinel-2 data
+Notebook for learning an improved deepwatermap model for semantic segmentation of river water using Sentinel-2 data
